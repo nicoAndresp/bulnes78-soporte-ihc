@@ -1,6 +1,6 @@
 # Bulnes78 — Sistema de Soporte Informático
 
-**Proyecto académico de Interacción Humano-Computador (IHC).**
+**Proyecto Interacción Humano Computador (IHC).**
 
 ## Descripción
 Prototipo de interfaz web para registrar solicitudes de mantenimiento informático y consultar su seguimiento. Se eligió un asistente paso a paso para facilitar la interacción de trabajadores con distintos conocimientos tecnológicos.
@@ -26,15 +26,15 @@ Las capturas del prototipo se encuentran en la carpeta [`evidencias/`](evidencia
 - Visualización móvil
 
 ## Diseño visual
-Estilo inspirado en el logotipo de Bulnes78. Paleta de referencia: grafito `#0C1014`, turquesa `#7EABA4`, verde claro `#CFE5DF`, blanco `#FFFFFF`. Tipografía Museo Sans cuando esté disponible, con Verdana como alternativa. No se incluyen archivos de fuentes.
+Estilo inspirado en el logotipo de la empresa Bulnes78. Paleta de referencia: grafito `#0C1014`, turquesa `#7EABA4`, verde claro `#CFE5DF`, blanco `#FFFFFF`. Tipografía Museo Sans cuando esté disponible, con Verdana como alternativa. No se incluyen archivos de fuentes.
 
 ## Organización del trabajo
 Consultar [`documentacion/registro-avances.md`](documentacion/registro-avances.md) para registrar hitos y responsabilidades del equipo.
 
-**Integrantes:** completar con nombres y funciones reales del grupo.
+**Integrantes:** Nicolás Peña / Pablo Ulloa.
 
 ## Limitaciones
-Es una demostración académica con **datos ficticios**. No tiene autenticación real, servidor, base de datos empresarial ni envío de correos. El almacenamiento de prueba es local al navegador, cuando este lo permite. No ingresar datos personales ni información corporativa real.
+Es un prototipo con **datos ficticios**. No tiene autenticación real, servidor, base de datos empresarial ni envío de correos. El almacenamiento de prueba es local al navegador, cuando este lo permite. No ingresar datos personales ni información corporativa real.
 
 ## Estado
 Prototipo inicial para revisión y pruebas de usabilidad. Las acciones de cada integrante deberán quedar reflejadas en commits y, cuando corresponda, solicitudes de cambio.
